@@ -55,25 +55,13 @@ cd full-stack-exam-incit
 
 ## Overview
 
-### Dashboard
+### Google Sign-In
 
-![DASHBOARD](Public/1-dashboard.png)
+![DASHBOARD](Public/Google-Auth.gif)
 
-### Login
+### Register and Login
 
-![LOGIN](Public/2-login.png)
-
-### Sign-in wiht Google
-
-![SING-IN](Public/3-sign-in-google.png)
-
-### Continue
-
-![CONTINUE](Public/4-continue.png)
-
-### Profile
-
-![PROFILE](Public/5-profile.png)
+![LOGIN](Public/Register.gif)
 
 ## Additional Notes
 
